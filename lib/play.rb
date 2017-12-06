@@ -37,4 +37,4 @@ end
 
 # Define your play method below
 play(board)
-do turn 9.times
+turn 9.times
