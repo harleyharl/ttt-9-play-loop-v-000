@@ -37,8 +37,9 @@ end
 
 # Define your play method below
 def play(board)
+turn
 counter == 0
   until counter == 0 turn
    counter += 1
   end
-end 
+end
